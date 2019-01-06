@@ -73,11 +73,11 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.8.7</muleVersion>
-					<username>PriyankGupta65</username>
-					<password>Seagrams@vat69</password>
+					<username>MuleMeetups</username>
+					<password>Jan@2019</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
-					<environment>Production</environment>
+					<environment>SANDBOX</environment>
 				</configuration>
 				<executions>
 					<execution>
