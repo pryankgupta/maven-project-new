@@ -26,6 +26,7 @@ http://www.springframework.org/schema/beans http://www.springframework.org/schem
 
   <!-- base config for http entry point -->
   <!-- testing cloudHub -->
+  <!-- Retesting -->
   <http:listener-config name="HTTP_Listener_Configuration" host="0.0.0.0" port="8081" doc:name="HTTP Listener Configuration"/>
 
   <!-- connection to derby in-memory database -->
