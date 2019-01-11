@@ -7,6 +7,7 @@ import org.mule.api.MuleEvent;
 import org.mule.tck.junit4.FunctionalTestCase;
 
 public class HelloMavenTest extends FunctionalTestCase {
+	
 
     // mavenFlow returns Hello Maven
     @Test
